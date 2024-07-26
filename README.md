@@ -10,7 +10,7 @@ Este ejercicio solicita al usuario su peso en kilogramos y su altura en centíme
 
 ### Instrucciones
 
-1. Ejecuta el script `calculo_imc.py`.
+1. Ejecuta el script `IMC.py`.
 2. Ingresa tu peso en kilogramos cuando se te solicite.
 3. Ingresa tu altura en centímetros cuando se te solicite.
 4. El script calculará tu IMC y te mostrará tu clasificación según la OMS.
@@ -32,7 +32,7 @@ Este ejercicio permite al usuario jugar una partida de "Piedra, Papel o Tijeras"
 
 ### Instrucciones
 
-1. Ejecuta el script `piedra_papel_tijeras.py`.
+1. Ejecuta el script `cachipun.py`.
 2. Ingresa tu elección entre "piedra", "papel" o "tijeras" cuando se te solicite.
 3. El script comparará tu elección con la elección aleatoria de la computadora y determinará el resultado del juego:
    - Si ambos eligen lo mismo, es un empate.
