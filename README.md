@@ -39,7 +39,4 @@ Este ejercicio permite al usuario jugar una partida de "Piedra, Papel o Tijeras"
    - Si tu elección vence a la de la computadora, ganas.
    - Si la elección de la computadora vence a la tuya, pierdes.
 
-## Contacto
-
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme.
 
